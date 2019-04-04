@@ -19,6 +19,7 @@ When adding assets to the Unity project, please adhere to the following folder s
 * Scripts - C# scripts
 * Art - textures, effects, etc.
 * Sound - audio files, sound cues, etc.
+
 The director of each department should consult with the technical director on the organization of subfolders within these folders.
 
 ## Project Management
