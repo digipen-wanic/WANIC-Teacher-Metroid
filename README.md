@@ -1,6 +1,9 @@
 # WANIC-Teacher-Metroid
 Metroid clone in Unity.
 
+## Unity Version
+The currently uploaded project is using an old version of Unity, so DO NOT download the project at this time. We will upload a version using a newer build as soon as we can and will remove this disclaimer once that is done. In the meantime, if you do any work, please make sure you are using Unity version 2018.3.0f2 (the same version that is installed on the WANIC student computers). This is the version we will be using for this project.
+
 ## Version Control Guidelines
 * Use [TortoiseGit](https://tortoisegit.org/), [GitHub Desktop](https://desktop.github.com/), or the git CLI to clone/push/pull from this repository. Do *not* use an SVN client!
 
