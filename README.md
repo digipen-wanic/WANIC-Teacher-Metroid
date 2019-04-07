@@ -7,7 +7,9 @@ If you do any work, please make sure you are using Unity version 2018.3.0f2 (the
 ## Version Control Guidelines
 * Use [TortoiseGit](https://tortoisegit.org/), [GitHub Desktop](https://desktop.github.com/), or the git CLI to clone/push/pull from this repository. Do *not* use an SVN client!
 
-* When committing, provide a helpful message in the imperative form (i.e., when this commit is applied, X will happen), such as "Add script for enemy movemement" or "Update texture for Samus run animation" or "Fix animation controller glitch when jumping". Avoid committing several unrelated things in a single commit.
+* When committing, provide a short but clear message about what you have changed, such as "Added script for enemy movemement" or "Updated texture for Samus run animation" or "Fixed animation controller glitch when jumping". 
+
+* If your commit message seems too vague (i.e., "Added art") or would be too long, you may be committing a lot of different things at once. While this is fine for initial commits, when changing existing files, try to avoid changing several unrelated things in a single commit.
 
 * When committing assets within the Unity project directory, make sure you commit the **.meta** files as well, as they contain information necessary for the project to work correctly.
 
