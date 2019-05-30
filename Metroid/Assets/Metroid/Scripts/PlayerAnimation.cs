@@ -2,13 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(PlayerMovement))]
-[RequireComponent(typeof(SpriteRenderer))]
 [RequireComponent(typeof(Animator))]
 public class PlayerAnimation : MonoBehaviour
 {
-    //PlayerMovement movement = null;
-    //SpriteRenderer sprite = null;
     Animator anim = null;
     float lookX = 1.0f;
 
